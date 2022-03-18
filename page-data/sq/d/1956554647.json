@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Gatsby로 github blog 만들기","categories":"BLOG"},"fields":{"slug":"/blog/"}}},{"node":{"frontmatter":{"title":"나를 소개합니다.","categories":"RESUME"},"fields":{"slug":"/Resume/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Gatsby로 github blog 만들기","categories":"BLOG"},"fields":{"slug":"/blog/01-blog-start/"}}},{"node":{"frontmatter":{"title":"저는 이런 개발자입니다.","categories":"RESUME"},"fields":{"slug":"/Resume/"}}}]}}}
