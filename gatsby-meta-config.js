@@ -2,7 +2,7 @@ module.exports = {
   title: `tkdalsgks.me`,
   description: `배운 것을 코드와 글로 기록합니다.`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://blog.tkdalsgks.me/`,
+  siteUrl: `https://tkdalsgks.me/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
